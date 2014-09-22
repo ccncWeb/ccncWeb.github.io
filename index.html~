@@ -11,11 +11,11 @@
 
   </head>
   <body>
+<div id="contentOuter">
+<div id="content">
 
-    <div class="container">
-
-      <h1>This is the title of this here webpage. </h1>
-      <h2> This is the subtitle. </h2>
+      <h1>Welcome to Chev properties. </h1>
+      <h2> We'll help you sell your house quickly and efficiently.  </h2>
 
 <p>
 <strong>
@@ -32,15 +32,15 @@ If you or someone you know has a house that you would like to sell quickly, drop
 </strong>
 
 
-<!---Here is the YouTube video. It's random.--->
+<!---Here is the YouTube video. It's random.-->
 
+<!--
 <em> Here's a short YouTube video to liven up your day:</em>
 
 <center>
 <iframe align="center" width="640" height="360" src="http://www.youtube-nocookie.com/embed/IyYo3Hm6pS4" frameborder="0" allowfullscreen></iframe>
 </center>
-
-
+-->
      
      
       <h2>
@@ -55,10 +55,10 @@ If you or someone you know has a house that you would like to sell quickly, drop
    
 <img src="gplus.png" alt="Google+" style="border:0;width:64px;height:64px;"/>
 </a>
-      </div>
 
     </div>
-  
+  </div>
+  </div>
 
 </body>
 </html>
