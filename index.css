@@ -39,7 +39,7 @@
       
 #contentOuter {
 	width: 100%;
-	top: 
+	bottom: auto
 	left:0;
 	position:relative;
 }
@@ -47,17 +47,20 @@
 #content {
 	width:800px;
 	margin:0 auto;
+    height: 300px
 }
 
 #leftCol{
 float:left; 
 width:50%;
+height: inherit
 text-align: left
 
 }
 #rightCol{
 float:right; 
 width:50%; 
+height: inherit
 text-align: justify
 }
 
